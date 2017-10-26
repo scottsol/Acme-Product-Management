@@ -1,0 +1,803 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Product",
+				"ProductService"
+			],
+			[
+				"index",
+				"indexB"
+			],
+			[
+				"insp",
+				"inspection_grade"
+			],
+			[
+				"zip",
+				"zip_code"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"in",
+				"inspection_grade"
+			],
+			[
+				"address",
+				"addressLines"
+			],
+			[
+				"addr",
+				"addressLines"
+			],
+			[
+				"ad",
+				"addressInfo"
+			],
+			[
+				"fac",
+				"facName"
+			],
+			[
+				"inspec",
+				"inspection_date"
+			],
+			[
+				"facility",
+				"facility_name"
+			],
+			[
+				"facili",
+				"facility_name"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"Arra",
+				"ArrayList"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"getuser",
+				"getuserName?id=1234"
+			],
+			[
+				"getu",
+				"getusernName?id=1234"
+			],
+			[
+				"getus",
+				"getUserStatus"
+			],
+			[
+				"is",
+				"isSubstring"
+			],
+			[
+				"IX",
+				"IX"
+			],
+			[
+				"nums",
+				"nums"
+			],
+			[
+				"int",
+				"intToRoman"
+			],
+			[
+				"char",
+				"charAt"
+			],
+			[
+				"roman",
+				"romanConversion"
+			],
+			[
+				"generate",
+				"generateBeer"
+			],
+			[
+				"generateB",
+				"generateBeer"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"query",
+				"queryAvgx01"
+			],
+			[
+				"q",
+				"queryBattlefield"
+			],
+			[
+				"inset",
+				"insertPlayer"
+			],
+			[
+				"A",
+				"A"
+			],
+			[
+				"new",
+				"newArray"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "APM-Start/src/app/products/product-list.component.html",
+			"settings":
+			{
+				"buffer_size": 2159,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "APM-Start/src/app/products/product-list.component.ts",
+			"settings":
+			{
+				"buffer_size": 1469,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "APM-Start/src/app/products/product.service.ts",
+			"settings":
+			{
+				"buffer_size": 783,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "product.service.ts"
+			}
+		},
+		{
+			"file": "APM-Start/src/app/app.module.ts",
+			"settings":
+			{
+				"buffer_size": 728,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "APM-Start/src/app/app.component.ts",
+			"settings":
+			{
+				"buffer_size": 335,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"package control list",
+				"Package Control: List Packages"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"package control install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control remove",
+				"Package Control: Remove Channel"
+			],
+			[
+				"package control list packages",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list p",
+				"Package Control: List Packages"
+			],
+			[
+				"package control",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control ",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package contorl install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: ad",
+				"Package Control: Add Repository"
+			],
+			[
+				"inst",
+				"Install Package Control"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Start",
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Start/src",
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Start/src/api",
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Start/src/api/products",
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Start/src/app",
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Start/src/app/products",
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Start/src/app/shared"
+	],
+	"file_history":
+	[
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Final/src/app/products/product-list.component.ts",
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Final/src/app/products/product.service.ts",
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Start/src/api/products/products.json",
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Start/src/app/app.component.spec.ts",
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Start/src/app/products/product-list.component.html",
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Start/src/app/app.component.ts",
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Start/src/app/shared/star.component.html",
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Start/src/index.html",
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Start/src/app/shared/star.component.ts",
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Start/src/app/products/product.ts",
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Start/src/app/app.component.html",
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Final/src/app/shared/star.component.html",
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Final/src/app/shared/star.component.ts",
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Final/src/app/shared/shared.module.ts",
+		"/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Final/src/app/shared/convert-to-spaces.pipe.ts",
+		"/Users/scottsol/Desktop/Angular-GettingStarted/APM-Start/src/index.html",
+		"/Users/scottsol/Desktop/Angular-GettingStarted/APM-Start/src/app/products/product.ts",
+		"/Users/scottsol/Desktop/Angular-GettingStarted/APM-Final/src/app/products/product-list.component.html",
+		"/Users/scottsol/Desktop/Angular-GettingStarted/APM-Final/src/app/products/product-list.component.ts",
+		"/Users/scottsol/Desktop/Angular-GettingStarted/APM-Start/src/api/products/products.json",
+		"/Users/scottsol/Desktop/Angular-GettingStarted/APM-Final/src/app/app.component.ts",
+		"/Users/scottsol/Desktop/Angular-GettingStarted/APM-Final/src/app/app.module.ts",
+		"/Users/scottsol/Desktop/Angular-GettingStarted/APM-Start/src/app/app.component.html",
+		"/Users/scottsol/Desktop/Angular-GettingStarted/APM-Start/src/app/app.component.css",
+		"/Users/scottsol/Desktop/Angular-GettingStarted/APM-Start/src/app/app.component.spec.ts",
+		"/Users/scottsol/Desktop/Angular-GettingStarted/APM-Start/src/app/home/welcome.component.ts",
+		"/Users/scottsol/Desktop/Angular-GettingStarted/APM-Start/src/favicon.ico",
+		"/Users/scottsol/Desktop/Fibonacci.java",
+		"/Users/scottsol/Web-Scraping-Exercise/README.md",
+		"/Users/scottsol/Web-Scraping-Exercise/exercise.py",
+		"/Users/scottsol/Web-Scraping-Exercise/results.txt",
+		"/Users/scottsol/Google Drive/Hazel/instructions.txt",
+		"/Users/scottsol/Google Drive/Hazel/exercise.py",
+		"/Users/scottsol/Google Drive/Hazel/exercise.sublime-project",
+		"/Users/scottsol/Google Drive/webScrapeTutorial/webscrape.py",
+		"/Users/scottsol/Google Drive/Hazel/index.html",
+		"/Users/scottsol/Google Drive/Contact-List-App/server.js",
+		"/Users/scottsol/Google Drive/Contact-List-App/controllers/controller.js",
+		"/Users/scottsol/Library/Application Support/Sublime Text 3/Packages/Origami/Origami.sublime-settings",
+		"/Users/scottsol/Google Drive/Contact-List-App/:: server.js",
+		"/Users/scottsol/Google Drive/apitutorial/app/routes/note_routes.js",
+		"/Users/scottsol/Google Drive/apitutorial/server.js",
+		"/Users/scottsol/Google Drive/apitutorial/app/routes/index.js",
+		"/Users/scottsol/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/scottsol/Google Drive/apitutorial/config/db.js",
+		"/Users/scottsol/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/Users/scottsol/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/scottsol/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/scottsol/Google Drive/apitutorial/package.json",
+		"/Users/scottsol/Google Drive/apitutorial/.gitignore",
+		"/Users/scottsol/Google Drive/youtubeApp/test.java",
+		"/Users/scottsol/Desktop/Compress.java",
+		"/Compress.java",
+		"/Users/scottsol/Desktop/Test.java",
+		"/Users/scottsol/Google Drive/git/FizzBuzz.java",
+		"/Users/scottsol/Desktop/Palindrome.java",
+		"/Palindrome.java",
+		"/Users/scottsol/Google Drive/git/trees and graphs/Solution.java",
+		"/Users/scottsol/Desktop/Solution.java",
+		"/Users/scottsol/Google Drive/git/message.txt",
+		"/Users/scottsol/Google Drive/git/blog/app/views/articles/show.html.erb",
+		"/Users/scottsol/Google Drive/git/blog/app/views/welcome/index.html.erb",
+		"/Users/scottsol/Google Drive/git/blog/db/migrate/20170503072944_create_articles.rb",
+		"/Users/scottsol/Desktop/poop.java",
+		"/Users/scottsol/Desktop/jadong.java",
+		"/Users/scottsol/Desktop/Jadong.java",
+		"/Users/scottsol/Desktop/import java.util.*",
+		"/Users/scottsol/Google Drive/git/java/MinIntHeap.java",
+		"/Users/scottsol/Google Drive/git/personalWebsite/index.html",
+		"/Users/scottsol/Google Drive/git/personalWebsite/css/bootstrap.css",
+		"/Users/scottsol/Google Drive/git/personalWebsite/css/stylish-portfolio.css",
+		"/Users/scottsol/Google Drive/git/personalWebsite/css/bootstrap.min.css",
+		"/Users/scottsol/Google Drive/git/js/node-mysql/package.json",
+		"/Users/scottsol/Google Drive/git/js/asynchronousBackgroundTasksInParallel/package.json",
+		"/Users/scottsol/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/scottsol/Google Drive/git/js/asynchronousBackgroundTasksInParallel/client.js",
+		"/Users/scottsol/Google Drive/git/js/nodeIntroProject/requestHandlers.js",
+		"/Users/scottsol/Google Drive/git/js/nodeIntroProject/router.js",
+		"/Users/scottsol/Google Drive/git/js/nodeIntroProject/index.js",
+		"/Users/scottsol/Google Drive/git/java/hammingDistance.java",
+		"/Users/scottsol/Google Drive/git/java/fizzBuzz.java",
+		"/Users/scottsol/Library/Application Support/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/Users/scottsol/Google Drive/git/java/isSubstring.java",
+		"/Users/scottsol/Google Drive/git/java/palindromePermutation.java",
+		"/Users/scottsol/Google Drive/git/js/asynchronousBackgroundTasksInParallel/server.js",
+		"/Users/scottsol/Library/Application Support/Sublime Text 3/Packages/Colorcoder/colorcoder.sublime-settings",
+		"/Users/scottsol/Google Drive/git/java/isUnique.java",
+		"/Users/scottsol/Google Drive/git/java/deleteMiddleNode.java",
+		"/Users/scottsol/Library/Application Support/Sublime Text 3/Packages/User/Terminal (OSX).sublime-settings",
+		"/Users/scottsol/Google Drive/git/js/FilesizeWatcher/FilesizeWatcher.js",
+		"/Users/scottsol/Google Drive/git/js/FilesizeWatcher/src/FilesizeWatcher.js",
+		"/Users/scottsol/Google Drive/git/js/FilesizeWatcher/spec/FilesizeWatcherSpec.js",
+		"/Users/scottsol/Google Drive/git/js/FilesizeWatcher/package.json",
+		"/Users/scottsol/Google Drive/git/js/test.js",
+		"/Users/scottsol/Google Drive/git/js/eventEmitter.js",
+		"/Users/scottsol/Google Drive/git/js/FilesizeWatcher/FilesizeWatcherSpec.js",
+		"/Users/scottsol/Google Drive/git/js/test-driven-development/spec/greetSpec.js",
+		"/Users/scottsol/Google Drive/git/js/test-driven-development/src/greet.js",
+		"/Users/scottsol/Google Drive/git/js/test-driven-development/package.json",
+		"/Users/scottsol/Google Drive/git/js/nodeIntroProject/server.js",
+		"/Users/scottsol/Google Drive/codingPractice/java/recursiveMultiply.java",
+		"/Users/scottsol/Google Drive/codingPractice/js/helloworld.js",
+		"/Users/scottsol/Google Drive/codingPractice/java/viewMatrix.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/viewMatrix.jaa",
+		"/viewMatrix.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/listofDepths.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/Graphs/graphs.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/treesAndGraphs.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/minHeap.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/tripleStep",
+		"/Users/scottsol/Google Drive/codingPractice/java/Node.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/deleteMiddleNode.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/removeDups.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/kthLast.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/permutation.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/isSubstring.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/permutation2Strings.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/isUnique.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/helloWorld.",
+		"/Users/scottsol/Google Drive/codingPractice/java/fizzBuzz.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/hammingDistance.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/java",
+		"/Users/scottsol/Google Drive/codingPractice/java/intToRoman.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/romanNumerals.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/helloWorld/romanNumerals.java",
+		"/Users/scottsol/Google Drive/codingPractice/cpp/stream.cpp",
+		"/Users/scottsol/Google Drive/codingPractice/cpp/template.cpp",
+		"/Users/scottsol/Google Drive/codingPractice/cpp/intro.cpp"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"error",
+			"perform"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"APM-Final/.DS_Store",
+				"APM-Final/src/.DS_Store",
+				"APM-Start/node_modules/",
+				"APM-Final/src/app/.DS_Store",
+				"APM-Start/src/app/acme.sublime-workspace",
+				"APM-Start/.DS_Store"
+			],
+			"path": "/Users/scottsol/Google Drive/Macbook/Angular-GettingStarted/APM-Start"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "APM-Start/src/app/products/product-list.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								304,
+								314
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "APM-Start/src/app/products/product-list.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								562,
+								572
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "APM-Start/src/app/products/product.service.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 783,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								783,
+								783
+							]
+						],
+						"settings":
+						{
+							"auto_name": "product.service.ts",
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "APM-Start/src/app/app.module.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 728,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								572,
+								572
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "APM-Start/src/app/app.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"exercise.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
